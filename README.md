@@ -14,7 +14,7 @@ Essays on building products, AI applications, and lessons from founding companie
 
 ## About me
 
-I'm Brian Cho — third-time founder (BARO, Jobtest.org, Resonado Labs). I write about what I’ve learned shipping from research to revenue.
+I'm Brian Cho — third-time founder building [**BARO**](https://heybaro.com) (2025–present). Before that I was a Senior PM at [**Flock Safety**](https://www.flocksafety.com/) (2025–2026), co-founder at [**Jobtest.org**](https://jobtest.org) (2022–2024), and co-founder at [**Resonado Labs**](https://resonadolabs.com) (2019–2022). I write about what I’ve learned shipping from research to revenue.
 
 ## Essays (full list)
 
