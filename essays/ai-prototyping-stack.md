@@ -2,6 +2,8 @@
 
 *Claude, Lovable, Supabase, and how I ship fast*
 
+> **Note (2026):** This essay describes the stack and workflow I used for that season of shipping. Current tooling is summarized in [**AI Prototyping Patterns**](https://github.com/brianyoungilcho/ai-prototyping-patterns) (Claude, Cursor, Codex, Vercel, Supabase).
+
 ---
 
 I solo-built [Pupsday.com](https://pupsday.com) — a dog subscription e-commerce platform — in a few weeks. It's now profitable at $1K+ MRR with 30% margins.
