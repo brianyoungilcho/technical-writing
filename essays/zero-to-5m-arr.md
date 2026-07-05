@@ -4,7 +4,7 @@
 
 ---
 
-In 2022, I co-founded Jobtest.org — a B2C career marketplace. By 2025, we had reached $5M ARR, 200K MAU, and a 35% session-to-paid conversion rate. We did this with a team of two.
+In 2022, I co-founded Jobtest.org — a B2C career marketplace. By the time I moved on in 2024, we had reached $5M ARR and 200K MAU. We did this with a team of two.
 
 Here's what actually worked.
 
@@ -43,9 +43,9 @@ Results:
 
 We never cracked paid acquisition. Our CAC was always too high for the market. So we focused relentlessly on conversion.
 
-35% session-to-paid sounds impressive, but it came from hundreds of micro-optimizations:
+The conversion rate came from hundreds of micro-optimizations:
 - Quiz length (12 questions was optimal — fewer felt shallow, more caused drop-off)
-- Progress indicators (showing "you're 80% done" increased completion by 23%)
+- Progress indicators (showing "you're 80% done" measurably lifted completion)
 - Immediate value (free users got *some* insights, paid users got depth)
 - Friction at the right moment (asking for payment after the "aha moment," not before)
 

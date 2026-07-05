@@ -1,10 +1,10 @@
-# From Garage R&D to NYSE Exit
+# From Garage R&D to Acquisition
 
 *The Resonado Labs journey: patents, partnerships, and manufacturing*
 
 ---
 
-In 2016, I co-founded Resonado Labs — a deep-tech audio company. In 2022, we exited to LCI Industries (NYSE: LCII). 
+In 2019, I co-founded Resonado Labs — a deep-tech audio company. In 2022, we exited to LCI Industries (NYSE: LCII). 
 
 The journey from garage-stage R&D to strategic acquisition taught me more about building companies than any business school could. Here's what I learned about translating research into revenue.
 

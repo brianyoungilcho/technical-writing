@@ -2,7 +2,7 @@
 
 *Claude, Lovable, Supabase, and how I ship fast*
 
-> **Note (2026):** This essay describes the stack and workflow I used for that season of shipping. Current tooling is summarized in [**AI Prototyping Patterns**](https://github.com/brianyoungilcho/ai-prototyping-patterns) (Claude, Cursor, Codex, Vercel, Supabase).
+> **Note (2026):** This essay describes the stack and workflow I used for that season of shipping. Current tooling: Claude Code, Cursor, Codex, Vercel, Supabase.
 
 ---
 
@@ -187,19 +187,6 @@ My monthly costs:
 At $1K MRR with 30% margins, the infrastructure cost is negligible.
 
 Compare to Shopify: $79/month basic + app costs + transaction fees. And I'd still have the quiz limitation problem.
-
-## Getting Started
-
-If you want to try this approach:
-
-1. **Pick a small, contained project.** Something you could launch in a weekend.
-2. **Start with Lovable or v0** to get the UI direction.
-3. **Use Claude to plan the architecture** before writing code.
-4. **Set up Supabase** — follow their quickstart, it's well-documented.
-5. **Build in Cursor** with Claude as your pair programmer.
-6. **Deploy to Vercel** for instant feedback.
-
-The first project will feel slow as you learn the tools. The second will be dramatically faster.
 
 ---
 

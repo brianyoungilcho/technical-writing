@@ -101,31 +101,6 @@ The model could still do what it's good at — creating compelling narratives �
 | LTV | $47 | $56 | +20% |
 | Support tickets (job not found) | ~50/week | ~2/week | -96% |
 
-## The General Pattern
-
-This approach generalizes beyond career recommendations:
-
-### E-commerce Product Recommendations
-
-**Don't:** "Based on your preferences, you might like the Sony WH-2000XM5 headphones"  
-(Model might hallucinate product names or specs)
-
-**Do:** Embed user preferences → match against product catalog → have LLM explain why matched products fit
-
-### Medical Information
-
-**Don't:** "Your symptoms suggest you might have [condition]"  
-(Dangerous hallucination territory)
-
-**Do:** Match symptoms to verified medical database → have LLM explain the matches in accessible language
-
-### Legal Research
-
-**Don't:** "The relevant case law is Smith v. Jones (2019)"  
-(Model will confidently cite cases that don't exist)
-
-**Do:** Embed legal question → retrieve from verified case database → have LLM synthesize relevance
-
 ## Implementation Notes
 
 ### Embedding Quality Matters
